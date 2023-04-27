@@ -1,6 +1,6 @@
-# hw7
-# Results
-## Test the program with
+# Hw7
+## Results
+### Test the program with
 
 ![inputs_and_outputs_of_test_data](https://user-images.githubusercontent.com/59012686/234929148-1d09d3f6-911d-463c-b7ac-33f628f69d8c.jpg)
 
