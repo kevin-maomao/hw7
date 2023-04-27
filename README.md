@@ -1,6 +1,10 @@
 # Hw7
+## How to run program
+
+## Verification by matlab
+
 ## Results
-### Verify the program with a test signe
+### Verify the program with a test signal
 
 ![inputs_and_outputs_of_test_data](https://user-images.githubusercontent.com/59012686/234929148-1d09d3f6-911d-463c-b7ac-33f628f69d8c.jpg)
 
