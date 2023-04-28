@@ -1,12 +1,23 @@
 # Hw7
 ## How to run program
 
+Add a new empty Mbed program
 
+Replace main.cpp with the main.cpp in the repository
+
+Add the file arm_fir_data.c to the project
+
+Add library mbed dsp to the project
+
+https://os.mbed.com/teams/mbed-official/code/mbed-dsp
+
+Add a #define to the file arm_bitreversal2.S
 
 ## Verification by matlab
 
-copy output data from STM board
-using verification.m to r=verify if the CMSIS FIR function work or not
+copy input and output data from STM board and paste it in a .txt file
+
+use verification.m to verify if the CMSIS FIR function work or not
 
 ## Results
 ### Verify the program with a test signal
