@@ -19,7 +19,7 @@ Copy input and output data (test data and gyro data) from STM board and paste it
 
 Use verification.m to verify if the CMSIS FIR function work or not
 
-Verification.m will first demonstrate if the higer signal in test data (combined sine wave) can be successfully filtered and compare it with the data processed by matlab's FIR filter
+Verification.m will first demonstrate if the higer signal (15kHz) in test data (combined sine wave) can be successfully filtered and compare it with the data processed by matlab's FIR filter
 
 Then compare the gyro data processed by matlab's FIR filter and CMSIS function
 
