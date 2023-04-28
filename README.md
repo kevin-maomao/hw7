@@ -15,13 +15,13 @@ Add a #define to the file arm_bitreversal2.S
 
 ## Verification by matlab
 
-copy input and output data (test data and gyro data) from STM board and paste it in a .txt file
+Copy input and output data (test data and gyro data) from STM board and paste it in a .txt file
 
-use verification.m to verify if the CMSIS FIR function work or not
+Use verification.m to verify if the CMSIS FIR function work or not
 
-verification.m will first demonstrate if the higer signal in test data (combined sine wave) can be successfully filtered and compare it with the data processed by matlab's FIR filter
+Verification.m will first demonstrate if the higer signal in test data (combined sine wave) can be successfully filtered and compare it with the data processed by matlab's FIR filter
 
-then compare the gyro data processed by matlab's FIR filter and CMSIS function
+Then compare the gyro data processed by matlab's FIR filter and CMSIS function
 
 ## Results
 ### Verify the program with a test signal
