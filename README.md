@@ -1,7 +1,12 @@
 # Hw7
 ## How to run program
 
+
+
 ## Verification by matlab
+
+copy output data from STM board
+using verification.m to r=verify if the CMSIS FIR function work or not
 
 ## Results
 ### Verify the program with a test signal
